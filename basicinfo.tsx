@@ -8,4 +8,4 @@ const yourMajor : String = "CS";
 let classification : String = "Junior";
 let oneExcite : String = "Learning React";
 let anyConcerns : String = "None at the moment";
-let funFact : String = "My last name has a holiday for it. Fat Tuesday/Fasnacht Day";
+let funFact : String = "My last name has a holiday for it. Fat Tuesday/Fasnacht Day.";
